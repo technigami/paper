@@ -9,6 +9,9 @@
     "enabled": false
   },
   "admin": {
-    "autoOpen": false
+    "autoOpen": false 
+  },
+  "admin": {
+	  "path":"/dash"
   }
 }
